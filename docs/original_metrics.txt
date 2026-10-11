@@ -1,0 +1,47 @@
+Historical source-notebook output; affected by preprocessing leakage and label limitations. Not rerun.
+
+============================================================
+COMPLETE RESULTS SUMMARY
+============================================================
+
+XGBoost:
+  Accuracy:  95.78%
+  F1-Score:  95.77%
+  Precision: 95.85%
+  Recall:    95.78%
+
+Random Forest:
+  Accuracy:  94.66%
+  F1-Score:  94.63%
+  Precision: 94.65%
+  Recall:    94.66%
+
+SVM:
+  Accuracy:  90.59%
+  F1-Score:  90.53%
+  Precision: 90.51%
+  Recall:    90.59%
+
+KNN:
+  Accuracy:  82.97%
+  F1-Score:  81.47%
+  Precision: 85.84%
+  Recall:    82.97%
+
+AdaBoost:
+  Accuracy:  74.47%
+  F1-Score:  74.6%
+  Precision: 74.8%
+  Recall:    74.47%
+
+LightGBM:
+  Accuracy:  94.88%
+  F1-Score:  94.85%
+  Precision: 95.0%
+  Recall:    94.88%
+
+Stacking Ensemble:
+  Accuracy:  96.68%
+  F1-Score:  96.67%
+  Precision: 96.68%
+  Recall:    96.68%

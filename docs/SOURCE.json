@@ -1,0 +1,16 @@
+{
+  "source_filename": "Downloads/Arrhythmia.ipynb",
+  "source_sha256": "a90ef1644a01290420aca9960c900129d8b093b4238ceebce76e1df24b63e125",
+  "published_notebook": "Arrhythmia.ipynb",
+  "changes": [
+    "portable input/output paths",
+    "complete dependency installation",
+    "fresh headings and methodological annotations",
+    "duplicate install and empty cells removed",
+    "personal paths and saved outputs removed",
+    "dynamic plot title",
+    "unsupported paper-comparison comment removed"
+  ],
+  "scientific_pipeline_changed": false,
+  "validation": "notebook schema and transformed Python syntax checked; full extraction/training not rerun"
+}

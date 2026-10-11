@@ -1,0 +1,15 @@
+data/
+outputs/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.dat
+*.hea
+.env
+.DS_Store
+Thumbs.db

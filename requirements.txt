@@ -1,0 +1,15 @@
+# Proposed compatible ranges, not a recovered historical environment lockfile.
+numpy>=2.0,<2.4
+pandas>=2.2,<3
+scipy>=1.13,<1.17
+scikit-learn>=1.6,<1.8
+imbalanced-learn>=0.13,<0.15
+wfdb>=4.1,<5
+neurokit2>=0.2,<0.3
+xgboost>=2,<4
+lightgbm>=4,<5
+matplotlib>=3.9,<4
+seaborn>=0.13,<0.14
+tqdm>=4.66,<5
+joblib>=1.4,<2
+jupyterlab>=4,<5
